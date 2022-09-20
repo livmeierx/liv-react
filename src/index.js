@@ -1,4 +1,4 @@
-import 'boostrap/dist/css/boostrap.css';
+import 'bootstrap/dist/css/bootstrap.css';
 
 import React from 'react';
 import ReactDOM from 'react-dom';
