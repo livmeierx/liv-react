@@ -6,10 +6,10 @@ function About() {
             <h2 class="top-title">Liv Meier</h2>
             <hr></hr>
             <div>
-                <img></img>
+                <img class="mb-5" id="avatar" src="./public/headshot.jpg"></img>
 
                 <p>
-                    Need to add info
+                I'm an early-career software engineer with a background in public relations and marketing. I'm eager to blend my marketing experience with my web development skills to enhance the way users can interact. 
                 </p>
             </div>
         </section>
