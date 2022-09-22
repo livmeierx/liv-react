@@ -3,26 +3,26 @@
 [
     {
         "id": 1,
-        "name": " ",
+        "name": "Movie Madness",
         "image": "" ,
         "github": "",
-        "deploy": "" ,
-        "topics": ""
+        "deploy": "https://ianzyvith.github.io/Group1FrontEndProject/" ,
+        "topics": "Javascript, CSS"
     },
     {
         "id": 2,
-        "name": " ",
+        "name": "DnD Character Creator",
         "image": "",
         "github": "",
-        "deploy": "",
-        "topics": ""
+        "deploy": "https://dry-sands-22029.herokuapp.com/",
+        "topics": "Full Stack"
     },
     {
         "id": 3,
-        "name": "",
+        "name": "Run Buddy",
         "image": "",
         "github": "",
-        "deploy": "",
-        "topics": ""
+        "deploy": "https://livmeierx.github.io/run-buddy/",
+        "topics": "HTML, CSS"
     }
 ]
