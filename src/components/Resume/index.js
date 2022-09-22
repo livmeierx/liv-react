@@ -9,11 +9,6 @@ function Resume() {
             <div>
                 <div class="mt-5">
                     <h2 className="top-title">Liv Meier</h2>
-                    <ul>
-                        <li>
-                            Core competencies in [tk]
-                        </li>
-                    </ul>
 
                     <p class="mt-5">
                         <a href="https://www.linkedin.com/in/livmeier1">

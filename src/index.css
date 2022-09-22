@@ -1,6 +1,6 @@
-/* @import url('https://fonts.googleapis.com/css?family=Audiowide');
-@import url('https://fonts.googleapis.com/css?family=Days+One');
-@import url('https://fonts.googleapis.com/css?family=Oswald'); */
+@import url('https://fonts.googleapis.com/css?family=Trirong');
+@import url('https://fonts.googleapis.com/css?family=Sofia');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 
 main {
 	margin: 0 auto;
@@ -8,11 +8,11 @@ main {
   padding: 50px 30px;
 }
 :root {
-  --primary: #8c54ff;
-  --secondary: #F3A847;
-  --tertiary: #B12704;
+  --primary: #B2675E;
+  --secondary: #BBD686;
+  --tertiary: #EEF1BD;
   --light: #fafafa;
-  --cultured: #A3A3A3;
+  --shadows: #A3A3A3;
   --dark: #000000;
   --darker: #111111;
   --error: rgb(228, 46, 1);
@@ -60,7 +60,7 @@ h1 {
 
 h2 {
   font-size: 2rem;
-  font-family: 'Abril Fatface';
+  font-family: 'Roboto';
   color: var(--darker);
 }
 
@@ -159,17 +159,17 @@ li {
 }
 
 .nav-font {
-  font-family: 'Audiowide' ;
+  font-family: 'Trirong' ;
   font-size: 1.5em;
 }
 
 .nav-title-font {
-  font-family: 'Days One';
+  font-family: 'Oswald';
   font-size: 1.9em;
 }
 
 .top-title {
-  font-family: 'Oswald';
+  font-family: 'Sofia';
   margin-top: 20px;
 }
 
@@ -280,7 +280,7 @@ textarea {
   margin: 2rem;
   position: relative;
   width: 400px;
-  box-shadow: 0 2px 2px var(--cultured), 0 6px 12px var(--cultured);
+  box-shadow: 0 2px 2px var(--shadows), 0 6px 12px var(--shadows);
 }
 
 .card .img-container {
@@ -312,7 +312,7 @@ textarea {
 }
 
 .project-title {
-  color: var(--cultured);
+  color: var(--shadows);
   background-color: var(--white);
 }
 
@@ -328,7 +328,7 @@ textarea {
 .topics {
   font-size: small;
   font-style: italic;
-  color: var(--cultured);
+  color: var(--shadows);
   background-color: var(--white)
 }
 
