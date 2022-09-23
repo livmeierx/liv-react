@@ -20,7 +20,7 @@ function Resume() {
                     </p>
 
                     <a
-                    href=""
+                    href="https://github.com/livmeierx/liv-react/blob/feature/pages/docs/liv_meier_resume.pages"
                     class="link"
                     >
                         Download Resume
