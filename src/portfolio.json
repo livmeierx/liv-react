@@ -41,7 +41,6 @@
         "name": "Run Buddy",
         "image": "../assets/pics/run-buddy.jpg",
         "github": "https://github.com/livmeierx/run-buddy",
-        "deploy": "https://livmeierx.github.io/run-buddy/",
-        "topics": "HTML, CSS"
+        "deploy": "https://livmeierx.github.io/run-buddy/"
     }
 ]
