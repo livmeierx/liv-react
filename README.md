@@ -11,6 +11,6 @@
 
 ## Questions  
 
-Email Michael Giddings with any support questions at [liv.meier13@gmail.com](mailto:liv.meier13@gmail.com)\
+Email Liv with any questions at [liv.meier13@gmail.com](mailto:liv.meier13@gmail.com)\
 or visit my [GitHub Homepage](https://github.com/livmeierx).
   
