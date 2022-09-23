@@ -1,1 +1,16 @@
-# liv-react
+# [Liv's React Personal Portfolio](https://github.com/livmeierx/liv-react)
+  
+## Description
+
+  This personal portfolio was developed for Rutgers Coding Bootcamp.  
+
+## Table of Contents
+
+* [Description](##Description)
+* [Questions](##Questions)
+
+## Questions  
+
+Email Michael Giddings with any support questions at [liv.meier13@gmail.com](mailto:liv.meier13@gmail.com)\
+or visit my [GitHub Homepage](https://github.com/livmeierx).
+  
